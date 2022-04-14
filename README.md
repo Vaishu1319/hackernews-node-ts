@@ -1,0 +1,1 @@
+This repository holds the code for the HowToGraphQL tutorial with Typescript, Helix and Prisma.
